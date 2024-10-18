@@ -13,8 +13,8 @@ This project is created using React.js. It is a dynamic website for a furniture 
 
 # Run LocalHost
 
-#### `npm Create vite@latest`<br>
-this command using create brand new vite+React Application <br>
+#### `git Clone "https://github.com/Ranjithv88/Furniture--Templates"` <br> 
+this command use to clone your local pc
 
 #### `cd ./Project_Name`<br>
 this Command use to **Chage Diractory** to your file Location <br>
